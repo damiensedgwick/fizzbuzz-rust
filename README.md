@@ -3,7 +3,11 @@
 Goes from 1 to 1,000,000 printing fizz, buzz, fizzbuzz or n and times how long
 the program takes to run in total.
 
-On my macine, execution time is FILL THIS IN
+1st run - Time taken: 6.611641s
+
+2nd run - 4.990055s
+
+3rd run - 4.951596s
 
 ```
 Thinkpad T490
