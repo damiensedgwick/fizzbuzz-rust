@@ -5,9 +5,9 @@ the program takes to run in total.
 
 1st run - Time taken: 6.611641s
 
-2nd run - 4.990055s
+2nd run - Time taken: 4.990055s
 
-3rd run - 4.951596s
+3rd run - Time taken: 4.951596s
 
 ```
 Thinkpad T490
